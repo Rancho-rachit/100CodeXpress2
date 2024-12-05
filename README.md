@@ -7,4 +7,4 @@ Solutions for CodeXpress 2.0 powered by ACM
 
 ---
 
-- [x] Day 1 - Trekking Group Stamina Check
+- [x] [Day 1](https://github.com/Rancho-rachit/100dayscodexpress/commit/71dfc6ea167a26bcf3248229be86c09f5b3025cb) - Trekking Group Stamina Check
