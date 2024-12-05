@@ -1,4 +1,4 @@
-# 100dayscodexpress
+# 100 days of Codexpress 2
 Solutions for CodeXpress 2.0 powered by ACM
 
 > `Sprint details` - https://unstop.com/o/K8MaofT?lb=jxy86TVH
